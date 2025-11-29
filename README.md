@@ -25,3 +25,11 @@ Link soal: https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?
 Tujuan belajar: 
 Window function untuk memilih baris biaya minimal per kelompok.
 
+________________________________________________________________________________
+
+Q5
+
+Link soal: https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true
+Tujuan belajar: 
+Agregasi bertingkat (max per (hacker, challenge) kemudian sum per hacker), join ke master Hackers, filter skor nol.
+  
